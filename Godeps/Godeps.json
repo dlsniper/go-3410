@@ -1,0 +1,58 @@
+{
+	"ImportPath": "fetch",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v78",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "8ee79997227bf9b34611aee7946ae64735e6fd93"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "41bba8d80bbfab43231ffdf4c210037baae5f6a3"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/app_identity",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/base",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/datastore",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/log",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/modules",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		},
+		{
+			"ImportPath": "google.golang.org/appengine/internal/remote_api",
+			"Comment": "v1.0.0-26-ga2c54d2",
+			"Rev": "a2c54d2174c17540446e0ced57d9d459af61bc1c"
+		}
+	]
+}
